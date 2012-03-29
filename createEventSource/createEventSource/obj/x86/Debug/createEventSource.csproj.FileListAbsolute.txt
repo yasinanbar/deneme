@@ -1,0 +1,6 @@
+C:\Projects\createEventSource\createEventSource\createEventSource\bin\Debug\createEventSource.exe.config
+C:\Projects\createEventSource\createEventSource\createEventSource\bin\Debug\createEventSource.exe
+C:\Projects\createEventSource\createEventSource\createEventSource\bin\Debug\createEventSource.pdb
+C:\Projects\createEventSource\createEventSource\createEventSource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\createEventSource\createEventSource\createEventSource\obj\x86\Debug\createEventSource.exe
+C:\Projects\createEventSource\createEventSource\createEventSource\obj\x86\Debug\createEventSource.pdb
